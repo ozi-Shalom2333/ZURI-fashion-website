@@ -23,6 +23,7 @@ ZURI is a fictional fashion brand focused on sustainable, African-inspired cloth
 
 The project is built using vanilla HTML, CSS, and JavaScript, with a modular structure to facilitate future integration with JavaScript frameworks (e.g., React, Vue.js) or a backend (e.g., Express.js).
 
+![alt text](assets/images/screendesk.jpg)
 ## Features
 - *Responsive Design*: Optimized for mobile, tablet, and desktop devices with a mobile-first approach.
 - *Interactive Navigation*: Sticky navigation with a mobile menu toggle and active link highlighting.
