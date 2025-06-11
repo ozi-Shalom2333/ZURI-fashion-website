@@ -1,0 +1,4 @@
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="80" height="80">
+            <circle cx="100" cy="100" r="90" stroke="#D2B48C" stroke-width="6" fill="none"/>
+            <text x="100" y="115" text-anchor="middle" font-family="Lora, serif" font-size="42" fill="#36454F" letter-spacing="4">ZURI</text>
+        </svg>
