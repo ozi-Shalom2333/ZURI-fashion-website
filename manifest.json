@@ -1,7 +1,7 @@
 {
   "name": "ZURI Fashion",
   "short_name": "ZURI",
-  "description": "ZURI - A modern fashion brand blending vibrant African prints with contemporary silhouettes. Ethically crafted, endlessly elegant.",
+  "description": "ZURI - A modern fashion brand blending vibrant African prints with contemporary silhouettes. Ethically hand crafted, endlessly elegant.",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#FDF5E6",
