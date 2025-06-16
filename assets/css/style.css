@@ -1,4 +1,4 @@
-/* General Styles */
+
 :root {
     --primary-bg: #FDF5E6;
     --secondary-bg: #FFFFFF;
@@ -250,6 +250,7 @@ section {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 40px;
     margin-top: 50px;
+    margin-bottom: 25px;
 }
 
 .product-card {
